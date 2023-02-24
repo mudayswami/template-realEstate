@@ -1,0 +1,102 @@
+body{
+    font-family: "Gloock";
+    font-weight: 100 !important;
+}
+h1{
+    font-family: "Bodoni";
+    font-size: 3rem;
+    font-weight: 900;
+    
+    color: #ffff;
+}
+/* BRAND */
+.logo{
+    width: 10%;
+
+}
+.navbar-brand
+{   
+    padding-left: 10%;
+    
+}
+/* NAVBAR */
+.main_nav{
+    position: absolute;
+}
+
+.ms-auto{
+    margin-right: 15%;
+    /* color: #ffff !important; */
+}
+
+
+.nav-link{
+    
+    margin: 0px 20px !important;
+    letter-spacing: 2px;
+    /* padding-right: 50px !important; */
+    color: #fff;
+    
+}
+
+.navbar-nav{
+    padding-right: 100px;
+}
+
+#background-video{
+    position: relative;
+    z-index: -1;
+
+}
+
+
+
+#middle_main{
+    padding: 5% 15%;
+}
+
+.para1{
+    font-size: 35px !important;
+    padding-right: 3%;
+}
+
+.para2{
+    
+    border-left: solid 1px;
+    text-align: center;
+}
+
+.p2{
+    position: relative;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#bottom_main{
+    background-color: black;
+    color: #ffff;
+    padding: 0% 20%;
+    padding-bottom: 3rem ;
+    
+    
+
+}
+
+.footer{
+    font-weight: 100;
+    text-align: center;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 1.4rem;
+    color: white;
+}
+
+.footerlink{
+    color: white;
+    font-family: 'Anton';
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 100 !important;
+}
